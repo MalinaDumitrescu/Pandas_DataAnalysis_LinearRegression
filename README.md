@@ -9,7 +9,7 @@ This repository serves as a foundation for future ML projects, which continue us
 
 ## Objectives
 
-In this project, you will learn and practice how to:
+Learning and practicing how to:
 
 * Load and explore a real dataset using **Pandas**
 * Identify **numerical and categorical features**
